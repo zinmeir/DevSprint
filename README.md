@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ DevSprint</h1>
+  <h1> DevSprint</h1>
   <p><b>AI-Assisted Project Management Suite</b></p>
   
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -11,11 +11,11 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **DevSprint** is an AI-powered project management platform built to accelerate the software development lifecycle. By leveraging Large Language Models (LLMs), it automatically translates basic project descriptions into comprehensive, structured development pipelines. 
 
-### ✨ Core Features
+###  Core Features
 * **AI Generation:** Automatically generates Epics, User Stories, and granular Sprint Tasks from a single text prompt.
 * **Real-Time Logs:** Built-in WebSockets to stream real-time updates and system actions directly to the client dashboard.
 * **Containerized Architecture:** Fully Dockerized for seamless, reproducible environments across frontend, backend, and database.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 | Component | Technology | Description |
 |-----------|------------|-------------|
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚦 Getting Started
+##  Getting Started
 
 Follow these steps to run the complete full-stack environment locally on your machine.
 
@@ -60,7 +60,7 @@ Follow these steps to run the complete full-stack environment locally on your ma
 
 ---
 
-## 🔮 Future Roadmap (AWS Deployment)
+##  Future Roadmap (AWS Deployment)
 
 The next phase of this project involves shifting from local Docker development to a production-ready cloud environment. The planned deployment architecture includes:
 
